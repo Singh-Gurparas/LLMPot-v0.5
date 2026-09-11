@@ -14,7 +14,7 @@ Real-time global attack map, live threat feed, critical threat counter, and acti
 
 ---
 
-## What LLMPot v2 Does
+## What LLMPot Does
 
 The platform answers questions static rules cannot:
 
