@@ -1,4 +1,4 @@
-# LLMPot v2 — Autonomous AI Cyber Threat Intelligence Platform
+# LLMPot — Autonomous AI Cyber Threat Intelligence Platform
 
 > **"What if we let them in?"**
 >
